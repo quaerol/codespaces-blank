@@ -1,0 +1,7 @@
+{
+    "name": "Node.js & React.js",
+    "image": "mcr.microsoft.com/devcontainers/javascript-node:latest",
+    "postCreateCommand": "npm install",
+    "ports": [3000]
+  }
+  
